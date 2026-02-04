@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+
+# System
+.DS_Store
+Thumbs.db
+
+# Output
+plots/
+*.pdf
+*.png
+
+# Data (except specific files we want to track)
+*.csv
+*.gpkg
+*.txt
+*.xml
